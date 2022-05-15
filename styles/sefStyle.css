@@ -370,3 +370,11 @@ h1 strong{
 
     
 }
+
+@media only screen and (max-width: 800px) {
+    body, .headimg,
+    .secDiv,.thirdDiv,.fourDiv , .fiveDiv,.sixDiv,.sevenDiv,.eightDiv,.nineDiv,.tenDiv,.footer{
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
