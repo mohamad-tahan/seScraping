@@ -113,3 +113,110 @@ h1 strong{
 }
 
 
+.secDiv{
+    display: flex;
+    justify-content: center;
+  
+    padding: 30px;
+    text-align: center;
+    flex-direction: row;
+    font-family: sans-serif;
+    min-height: 300px;
+   
+    
+}
+
+.employ{
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.youth{
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    flex-direction: row;
+    justify-content: center;
+}
+    
+.global{
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    flex-direction: row;
+    justify-content: center;
+}
+.green{
+    color: chartreuse;
+    font-size: 60px;
+    font-weight: bold;
+}
+.psecDiv{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+
+
+
+.imgThird{
+    float: left;
+    margin-left: 80px;
+}
+
+.thirdDiv{
+    margin: 20px;
+    min-height: 350px;
+}
+.pThird{
+    padding-left: 80px;
+    font-size: 50px;
+    padding-left: 600px;
+    font-family: sans-serif;
+ 
+    
+}
+.pThirdd{
+    font-size: 25px;
+    padding-left: 650px;
+    font-family: sans-serif;
+}
+
+.aThird{
+   
+      color: chartreuse;
+  }
+
+
+
+.fourDiv{
+    background-color: #0d0;
+   padding-top: 50px;
+   padding-bottom: 30px;
+   min-height: 350px;
+   
+}
+.pfour{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.imgfour{
+    text-align: center;
+}
+
+
+
+.fiveDiv{
+    margin: 20px;
+    padding-top: 50px;
+    font-family: sans-serif;
+}
