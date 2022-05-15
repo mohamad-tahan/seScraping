@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    margin:0; 
+    padding:0;
+    
+}
+
+
+body{
+   
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width:100%;
+
+  
+   
+    
+}
+
+.headimg{
+    background-image: url('../assets/presentation.jpg');
+    background-size: cover;
+    padding: 5px;
+    background-repeat: no-repeat;
+    min-height: 700px;
+    
+    
+}
+nav{
+    
+    margin: 5px; 
+    text-align: center;    
+    vertical-align: middle;
+    padding:10px;
+float: right;
+margin-right: 80px;
+margin-top: 15px;
+padding-right: 20px;
+
+
+
+}
+nav ul li {display:inline;
+   
+}
+nav ul li a{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size:large;
+    text-decoration: none;
+    color:white;
+    padding:5px;
+   
+}
+
+.seLogo{
+    float: left;
+}
+
+.headContent{
+    padding-top: 300px;
+}
+
+
+.apply{
+    background-color: #0d0;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    font-size: .9rem;
+    font-weight: bolder;
+    color: white;
+    border: none;
+    margin-left: 10px;
+    
+}
+h1 strong{
+    color: white;
+
+    font-size: 55px;
+    letter-spacing: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.phead{
+    color: white;
+    padding-left: 130px;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    font-style: normal;
+    font-family: sans-serif;
+    
+
+}
+
+.learn{
+    background-color: #0d0;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    font-size: .9rem;
+    font-weight: bolder;
+    color: white;
+    border: none;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+
+
